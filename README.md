@@ -181,11 +181,7 @@ The tests can be executed in the terminal using the following command:
 mvn test -P android
 ```
 
-**iOS:**
 
-```bash
-mvn test -P ios
-```
 
 **Info:** Your test results would be displayed on the test console (or command-line interface if you are using terminal/cmd) and on the :link: [LambdaTest App Automation Dashboard](https://appautomation.lambdatest.com/build?utm_source=github&utm_medium=repo&utm_campaign=LT-appium-java).
 
