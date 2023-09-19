@@ -34,6 +34,7 @@ jobs:
         cache: maven
     - name: Build with Maven
       run: |
+        echo "Hello"
         mvn clean install
         mvn test -P android
 
