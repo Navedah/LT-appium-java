@@ -10,7 +10,7 @@ import java.net.URL;
 public class vanilla_android {
     public static String userName = "naveda";  //Add username here
            
-    public static String accessKey = "Y38l1pghEBmUKFqfk5XZSPrwP9Tc2cU8eWNaBPZjRYpXhYerxb"; //Add accessKey here
+    public static String accessKey = "auB5Xdtg4MwB5Jei5zYWOeHJZfoCPADNg8hNQLSH3z1rEm2sTH"; //Add accessKey here
            
 
     private static AppiumDriver driver;
