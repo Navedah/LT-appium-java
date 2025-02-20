@@ -23,7 +23,7 @@ public class vanilla_android {
             capabilities.setCapability("platformVersion", "11");
             capabilities.setCapability("platformName", "Android");
             capabilities.setCapability("isRealMobile", true);
-            capabilities.setCapability("app", "lt://APP101605731695143135795336"); //Enter your app url
+            capabilities.setCapability("app", "lt://APP1016049361737367922766497"); //Enter your app url
             capabilities.setCapability("deviceOrientation", "PORTRAIT");
             capabilities.setCapability("build", "Java Vanilla - Android");
             capabilities.setCapability("name", "Sample Test Java");
